@@ -1,4 +1,4 @@
-# jaron-xmas-21
+# vue3-template
 
 ## Project setup
 ```
